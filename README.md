@@ -6,7 +6,7 @@ Original paper : [Image-to-Image Translation with Conditional Adversarial Networ
 
 <img src="https://user-images.githubusercontent.com/58368119/126567319-569ba7a9-3e2a-4bf0-a417-0b23f17001be.png" width="90%"></img>
 <br />
-<br />
+Some examples
 
 <img src="https://user-images.githubusercontent.com/58368119/126567435-61b85cd1-6a5d-4a79-93cd-02466e5f9269.png" width="90%"></img>
 
