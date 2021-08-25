@@ -20,7 +20,7 @@ Some examples
 
 * Label Smoothing : Put the two target labels, Real = 0.9 and Fake = 0.1, instead of 1 and 0 respectively.
 * Pre-trained the Generator separately:
-  * Used U-Net with a pretrained (on ImageNet) Resnet model as its backbone and the pretrained the whole generator model on the dataset.
+  * Used U-Net with a pretrained (on ImageNet) Resnet model as its backbone and then pretrained the whole generator model on the dataset.
   * Tried with Resnet18 and Resnet34 models.
 * Tried different Image Augmentations:
   both train-time (from Albumentation library) and test-time (from TTA library)
