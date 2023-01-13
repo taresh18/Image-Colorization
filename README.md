@@ -18,7 +18,6 @@ Some examples
 
 ## Things I Tried:
 
-* Label Smoothing : Put the two target labels, Real = 0.9 and Fake = 0.1, instead of 1 and 0 respectively.
 * Pre-trained the Generator separately:
   * Used U-Net with a pretrained (on ImageNet) Resnet model as its backbone and then pretrained the whole generator model on the dataset.
   * Tried with Resnet18 and Resnet34 models.
@@ -28,7 +27,6 @@ Some examples
 
 ## Things to try in Future:
 
-* BatchNorm : Construct different mini-batches for real and fake images.
 * Training for more epochs.
 * Hyper-parameter optimisations
 * Create a web application and deploy the model over it.
